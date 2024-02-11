@@ -1,4 +1,4 @@
-This AI Chatbot that answers questions about a company named Zania based on the Handbook provided to its employees.
+This AI Chatbot answers questions about a company named Zania based on the Handbook provided to its employees.
 
 The Chatbot accepts a list of questions and outputs the question answer pair as a Json blob.
 
